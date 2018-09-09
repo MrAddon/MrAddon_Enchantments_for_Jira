@@ -7,15 +7,15 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mraddon.enchantments</groupId>
     <artifactId>com.mraddon.enchantments</artifactId>
-    <version>1.1</version>
+    <version>1.11</version>
 
     <organization>
         <name>MrAddon</name>
         <url>http://www.mraddon.com/</url>
     </organization>
 
-    <name>MrAddon Enchantments for Confluence</name>
-    <description>Open Source Confluence Server plugin to improve the standard usability of Confluence with simple tricks</description>
+    <name>MrAddon Enchantments for Jira</name>
+    <description>Open Source Jira Server plugin to improve the standard usability of Jira with simple tricks</description>
     <packaging>atlassian-plugin</packaging>
     
     <dependencies>
