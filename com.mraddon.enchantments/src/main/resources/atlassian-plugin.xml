@@ -23,4 +23,12 @@
         <context>atl.general</context>
     </web-resource>
     
+    <jql-function name="Projects Function" i18n-name-key="projects-function.name" key="projects-function" class="com.mraddon.enchantments.jql.ProjectsFunction">
+  	<description key="projects-function.description">The Projects Function Plugin</description>
+    <!--The name of the function-->
+	<fname>projects</fname>
+	<!--Whether this function returns a list or a single value-->
+	<list>true</list>
+    </jql-function>
+    
 </atlassian-plugin>
